@@ -2583,7 +2583,7 @@ blockquote {
   background-position: 0 0;
   background-size: 150px;
   background-attachment: fixed;
-  padding: 60px 20px;
+  padding: 20px 20px;
 }
 .footer-grid {
   grid-column-gap: 40px;
